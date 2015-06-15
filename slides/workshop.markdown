@@ -133,9 +133,8 @@ I've just only tryed this a few times with IOS so please be __PATIENT__ :)
 
 </section>
 <section markdown="block">
-# Hello IOS
+# Does anybody has an apple developer account???
 
 
-I've just only tryed this a few times with IOS so please be __PATIENT__ :)
-
+That's what i have an __Android__ , they just reject me to enrolle to their crappy 100USD developer problem
 </section>
