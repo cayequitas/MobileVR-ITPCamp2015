@@ -55,17 +55,59 @@ title: Getting started with VR on your mobile phone
 
 </section>
 <section markdown="block">
-
-
 ## Virtual Boy by __Nintendo__
+
+
+
+
+
+
+
+
 ![VirtualBoy](../img/nintendo.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 </section>
 <section markdown="block">
 
 
 ## people start writing a lot of __Theory__
+
+
+
+
+
+
+
+
 ![Manifesto](../img/manifesto.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </section>
 
@@ -77,6 +119,6 @@ title: Getting started with VR on your mobile phone
 
 # Google Cardboard
 
-[Home](../index.markdown)
+[Home](index.markdown)
 	
 </section>
