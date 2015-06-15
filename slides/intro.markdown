@@ -7,7 +7,7 @@ title: Getting started with VR on your mobile phone
 
 ## Designer
 
-## 23 years
+### 23 years
 
 ## __Colombia__
 
@@ -15,26 +15,36 @@ title: Getting started with VR on your mobile phone
 </section>
 
 <section markdown="block">
-## Focusing on 
+# Focusing on 
 
-# __Virtual Reality__
+## Virtual Reality
 
-# __360 degree video__
+## __360 degree video__
 
 </section>
 
 <section markdown="block">
 # It's all about DIY
 
-## This is some work i've being doing
-## [Realidat](https://youtu.be/r5_Lydu8gHo)
+## This is some work i've being doing on 360 degree video
+[Realidat](https://youtu.be/1lzIM4nvVm4)
+
+</section>
+<section markdown="block">
+# My last project 
+
+## This is some work i've being doing on Virtual Reality
+[Realidat](https://youtu.be/1lzIM4nvVm4)
+
 </section>
 
 <section markdown="block">
 # Virtual Reality
 
 ### first we need to get back to 90's
+
 ### Jaron Lanier - __VPL__ 
+
 ### Virtual Boy - __Nintendo__
 
 </section>
@@ -43,10 +53,10 @@ title: Getting started with VR on your mobile phone
 ### Stop talking #$%*
 
 # Oculus Rift
-	* __Palmer Luckey__
+## __Palmer Luckey__
 
 # Google Cardboard
 
-[Home](../index.mardown)
+[Home](../index.markdown)
 	
 </section>
