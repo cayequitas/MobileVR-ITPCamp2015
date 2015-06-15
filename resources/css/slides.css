@@ -11,8 +11,14 @@ body, section {
 section {
 	padding: 0.5em 2.75em 0.5em 2.75em;
 	border: 0.75em solid #000;
+
 }
 
+img{
+	width: 100%;
+	height: auto;
+
+}
 .title-slide {
 	padding:0px;
 }

@@ -72,13 +72,12 @@ export PATH=${PATH}:/<pathToTheAndroidSdkFolder>/android-sdk-macosx/platform-too
 </section>
 
 <section markdown="block">
-### Generate Some Scaffolding
+### Open Unity3D
 
-Create an application named hello
+we are going to import the cardboard asset we just downloaded
+        * Go to Assets --> Import Package --> Custome Package
+        * just click import
 
-{% highlight bash %}
-express hello
-{% endhighlight %}
 </section>
 
 <section markdown="block">
