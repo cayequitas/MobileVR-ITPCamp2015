@@ -3,15 +3,24 @@ layout: slides
 title: Getting started with VR on your mobile phone
 ---
 <section markdown="block" class="title-slide">
-# A Tiny Project - Making a Polls App
+# So . . . Let's get into Unity3D
 {% include title-slide-footer.html %}
 </section>
 
 <section markdown="block">
-## Let's Make a Small App
+## First we need to download the Unity Asset
 
-<aside> Based on [a series of tutorials from cwbuecheler.com](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/), as well as [this guide](http://www.ibm.com/developerworks/library/wa-nodejs-polling-app/) from IBM Developer Works.
-</aside>
+if you guys have git installed, go ahead and type:
+{% highlight bash %}
+git clone https://github.com/googlesamples/cardboard-unity.git
+{% endhighlight %}
+
+if you don't here's the direct download link:
+{% highlight bash %}
+https://github.com/googlesamples/cardboard-unity/archive/master.zip
+{% endhighlight %}
+
+
 </section>
 
 
