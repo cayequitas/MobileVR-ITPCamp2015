@@ -114,10 +114,11 @@ title: Getting started with VR on your mobile phone
 ### Stop talking #$%*
 
 # Oculus Rift
-         __Palmer Luckey__
+
+### __Palmer Luckey__
 
 # __Google Cardboard__
 
-[Home](.. /index.markdown)
+[Home](../index.markdown)
 	
 </section>
