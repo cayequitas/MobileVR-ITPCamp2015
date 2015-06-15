@@ -25,24 +25,40 @@ https://github.com/googlesamples/cardboard-unity/archive/master.zip
 
 
 <section markdown="block">
-### Installing Modules Locally or Globally
+### It's time to Rock N' Roll
 
-See this article on [global or not](http://blog.nodejs.org/2011/03/23/npm-1-0-global-vs-local-installation/)
+Firts Let Get started on exporting everything to __ANDROID__ devices
 
-* project specific? locally
-* commandline tool available everywhere? globally
+did everyone get the __Android SDK__ ?
+
+
 </section>
 
 <section markdown="block">
-### Install Express and Express Generator
+### Using the Android Debug Bridge __ADB__
 
-* install
-* ls
+* if you already downloaded the AndroidSDK you will have a folder call __platform tools__
+
+* so we need to change directory to that folder in order to test the __ADB__ 
+
+* if everything is doing good, we will export the path to ADB so we can do it globally with the terminal.
 
 {% highlight bash %}
-npm install -g express
-npm install -g express-generator
+cd <path to your android sdk folder>/platform-tools
+
+./adb devices
+
 {% endhighlight %}
+
+To export the path:
+
+{% highlight bash %}
+nano .bash_profile
+
+export PATH=${PATH}:/<pathToTheAndroidSdkFolder>/android-sdk-macosx/platform-tools
+
+{% endhighlight %}
+
 </section>
 
 <section markdown="block">
