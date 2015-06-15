@@ -136,5 +136,5 @@ I've just only tryed this a few times with IOS so please be __PATIENT__ :)
 # Does anybody has an apple developer account???
 
 
-That's what i have an __Android__ , they just reject me to enrolle to their crappy 100USD developer problem
+That's what i have an __Android__ , they just reject me to enroll to their crappy 100USD developer program
 </section>
