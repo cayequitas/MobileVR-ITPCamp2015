@@ -111,6 +111,7 @@ We can now try to export to your __Phone__
 * change the Default orientation to __Landscape Left__ (you can also do __Landscape Right__)
 
 
+
 </section>
 
 <section markdown="block">
@@ -131,4 +132,10 @@ We can now try to export to your __Phone__
 I've just only tryed this a few times with IOS so please be __PATIENT__ :)
 
 </section>
+<section markdown="block">
+# Hello IOS
 
+
+I've just only tryed this a few times with IOS so please be __PATIENT__ :)
+
+</section>
