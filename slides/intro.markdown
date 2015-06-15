@@ -49,13 +49,14 @@ title: Getting started with VR on your mobile phone
 
 ### first we need to get back to __90's__
 
+### Virtual Boy - __Nintendo__
+
 ### Jaron Lanier - __VPL__ 
 
-### Virtual Boy - __Nintendo__
+
 
 </section>
 <section markdown="block">
-## Virtual Boy by __Nintendo__
 
 
 
@@ -81,8 +82,6 @@ title: Getting started with VR on your mobile phone
 </section>
 <section markdown="block">
 
-
-## people start writing a lot of __Theory__
 
 
 
@@ -115,6 +114,7 @@ title: Getting started with VR on your mobile phone
 ### Stop talking #$%*
 
 # Oculus Rift
+
 ## __Palmer Luckey__
 
 # Google Cardboard
