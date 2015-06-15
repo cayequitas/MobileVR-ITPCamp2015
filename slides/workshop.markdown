@@ -37,11 +37,16 @@ did everyone get the __Android SDK__ ?
 <section markdown="block">
 ### Using the Android Debug Bridge __ADB__
 
-* if you already downloaded the AndroidSDK you will have a folder call __platform tools__
+if you already downloaded the AndroidSDK you will have a folder call __platform tools__
 
-* so we need to change directory to that folder in order to test the __ADB__ 
 
-* if everything is doing good, we will export the path to ADB so we can do it globally with the terminal.
+
+
+
+</section>
+<section markdown="block">
+
+so we need to change directory to that folder in order to test the __ADB__ 
 
 {% highlight bash %}
 cd <path to your android sdk folder>/platform-tools
@@ -49,6 +54,11 @@ cd <path to your android sdk folder>/platform-tools
 ./adb devices
 
 {% endhighlight %}
+
+</section>
+<section markdown="block">
+
+if everything is doing good, we will export the path to ADB so we can do it globally with the terminal.
 
 To export the path:
 
