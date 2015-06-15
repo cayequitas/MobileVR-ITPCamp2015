@@ -4,14 +4,16 @@ title: Getting started with VR on your mobile phone
 ---
 <section markdown="block" class="title-slide">
 # Carlos Serrano 
-	## Designer
-	## 23 years
-	## __Colombia__
+## Designer
+## 23 years
+## __Colombia__
 {% include title-slide-footer.html %}
 </section>
 
 <section markdown="block">
-## Focusing on __Virtual Reality__ - __360 degree video__
+## Focusing on 
+# __Virtual Reality__
+# __360 degree video__
 
 </section>
 
