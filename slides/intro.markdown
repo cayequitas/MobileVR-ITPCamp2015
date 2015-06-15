@@ -119,6 +119,6 @@ title: Getting started with VR on your mobile phone
 
 # __Google Cardboard__
 
-[Home](../index.markdown)
+[Home](../index.html)
 	
 </section>

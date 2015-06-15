@@ -74,9 +74,11 @@ export PATH=${PATH}:/<pathToTheAndroidSdkFolder>/android-sdk-macosx/platform-too
 <section markdown="block">
 ### Open Unity3D
 
-we are going to import the cardboard asset we just downloaded
-        * Go to Assets --> Import Package --> Custome Package
-        * just click import
+we are going to import the cardboard asset we just __downloaded__
+
+* Go to Assets --> Import Package --> Custome Package
+
+* just click import
 
 </section>
 
