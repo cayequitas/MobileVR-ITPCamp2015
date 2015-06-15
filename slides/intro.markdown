@@ -26,26 +26,46 @@ title: Getting started with VR on your mobile phone
 <section markdown="block">
 # It's all about DIY
 
+
+
+</section>
+<section markdown="block">
+# __Realidat__
+
 ## This is some work i've being doing on 360 degree video
 [Realidat](https://youtu.be/1lzIM4nvVm4)
 
 </section>
 <section markdown="block">
-# My last project 
+# __Dystopia__ (My last project) 
 
-## This is some work i've being doing on Virtual Reality
-[Realidat](https://youtu.be/1lzIM4nvVm4)
+### Some work i've being doing on __Virtual Reality__
+![Dystopia](../img/dystopia.png)
 
 </section>
 
 <section markdown="block">
 # Virtual Reality
 
-### first we need to get back to 90's
+### first we need to get back to __90's__
 
 ### Jaron Lanier - __VPL__ 
 
 ### Virtual Boy - __Nintendo__
+
+</section>
+<section markdown="block">
+
+
+## Virtual Boy by __Nintendo__
+![VirtualBoy](../img/nintendo.png)
+
+</section>
+<section markdown="block">
+
+
+## people start writing a lot of __Theory__
+![Manifesto](../img/manifesto.png)
 
 </section>
 
